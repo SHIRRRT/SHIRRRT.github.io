@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xibin Yuan"
+  name             : "Shanghai Jiao Tong University"
   bio              : "~~~"
   location         : "Earth"
-  employer         : "Shanghai Jiao Tong University"
+  employer         : #"Shanghai Jiao Tong University"
   uri              : "https://shirrrt.github.io/"
   email            : "2022yxb@sjtu.edu.cn" 
 
